@@ -13,6 +13,6 @@ width:0;
 height:0;
 ```
 ### 2 - SET src to a link that checks if someone has accessed to that link.
-### 3 - Receiver opens mail and the client accesses that link.
-### 3 - Server can conclude that the mail has been opened.
+### 3 - Receiver opens mail and the browser send request to that link.
+### 3 - Server concludes that the mail has been opened.
 ### 4 - Send 'OPENED' alert to the sender.
